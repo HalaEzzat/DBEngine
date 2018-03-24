@@ -1,0 +1,3 @@
+int:id:primarykey
+String:name
+mix:phone
